@@ -1,317 +1,317 @@
 [
-    {
-        "year": 1993,
-        "name": "Mighty Morphin Power Rangers (Season 1)",
-        "type": "Serie",
-        "topic": "Dinosaurios, mitología, adolescentes héroes",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
-        "view": 0,
-        "episodes": 60
-    },
-    {
-        "year": 1994,
-        "name": "Mighty Morphin Power Rangers (Season 2)",
-        "type": "Serie",
-        "topic": "Dinosaurios, mitología, adolescentes héroes",
-        "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/b/b5/Poster-mmpr3.jpg",
-        "view": 0,
-        "episodes": 52
-    },
-    {
-        "year": 1995,
-        "name": "Mighty Morphin Power Rangers (Season 3)",
-        "type": "Serie",
-        "topic": "Dinosaurios, mitología, adolescentes héroes",
-        "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/8/8e/MMPR-_Season_3.jpg",
-        "view": 0,
-        "episodes": 33
-    },
-    {
-        "year": 1995,
-        "name": "Mighty Morphin Power Rangers: The Movie",
-        "type": "Película",
-        "topic": "Dinosaurios, magia, aventuras",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pcLbHqs80dchv0byHivhdwHKEup.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 1996,
-        "name": "Mighty Morphin Alien Rangers",
-        "type": "Serie",
-        "topic": "Espacio, alienígenas, protección",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sHPcIR4Rzqoc1bQyOq5D2KBr3Rd.jpg",
-        "view": 0,
-        "episodes": 10
-    },
-    {
-        "year": 1997,
-        "name": "Power Rangers Zeo",
-        "type": "Serie",
-        "topic": "Cristales, tecnología, poderes antiguos",
-        "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/1/18/Power_Rangers_Zeo_1996_Poster.jpg",
-        "view": 0,
-        "episodes": 50
-    },
-    {
-        "year": 1997,
-        "name": "Turbo: A Power Rangers Movie",
-        "type": "Película",
-        "topic": "Vehículos, velocidad, tecnología",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4mau5EXQoKUTiS5wx3Wocwrh5hG.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 1997,
-        "name": "Power Rangers Turbo",
-        "type": "Serie",
-        "topic": "Vehículos, velocidad, tecnología",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hM3MxdOXVUEsamywO5aR4ZLPRy3.jpg",
-        "view": 0,
-        "episodes": 45
-    },
-    {
-        "year": 1998,
-        "name": "Power Rangers in Space",
-        "type": "Serie",
-        "topic": "Espacio, tecnología, aventuras",
-        "imageUrl": "https://image.tmdb.org/t/p/original/hmpk7r5Jpg8Xt1QMg5db6ckWjUV.jpg",
-        "view": 0,
-        "episodes": 43
-    },
-    {
-        "year": 1999,
-        "name": "Power Rangers Lost Galaxy",
-        "type": "Serie",
-        "topic": "Espacio, colonización, naturaleza",
-        "imageUrl": "https://image.tmdb.org/t/p/original/e1M3Chn5LqcCq7nv3GsHiyYc0Sl.jpg",
-        "view": 0,
-        "episodes": 45
-    },
-    {
-        "year": 1999,
-        "name": "The Power Rangers: The Lost Episode",
-        "type": "Película",
-        "topic": "Detrás de cámaras, documental",
-        "imageUrl": "https://image.tmdb.org/t/p/original/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 2000,
-        "name": "Power Rangers Lightspeed Rescue",
-        "type": "Serie",
-        "topic": "Rescate, bomberos, protección",
-        "imageUrl": "https://image.tmdb.org/t/p/original/nXOwakqruopTpMTOpf5XSwqdf88.jpg",
-        "view": 0,
-        "episodes": 40
-    },
-    {
-        "year": 2001,
-        "name": "Power Rangers Time Force",
-        "type": "Serie",
-        "topic": "Viajes en el tiempo, justicia, tecnología",
-        "imageUrl": "https://image.tmdb.org/t/p/original/UCgePnFVfl6Zo2RYV0cAIOW9TV.jpg",
-        "view": 0,
-        "episodes": 40
-    },
-    {
-        "year": 2002,
-        "name": "Power Rangers Wild Force",
-        "type": "Serie",
-        "topic": "Animales, naturaleza, espíritus guardianes",
-        "imageUrl": "https://image.tmdb.org/t/p/original/cFrxWhrF0UJB1YEh24BbxxAY0Gt.jpg",
-        "view": 0,
-        "episodes": 40
-    },
-    {
-        "year": 2003,
-        "name": "Power Rangers Ninja Storm",
-        "type": "Serie",
-        "topic": "Ninjas, viento, elementos",
-        "imageUrl": "https://image.tmdb.org/t/p/original/uTtI26GBQw1k94BRstFdrSy82xu.jpg",
-        "view": 0,
-        "episodes": 38
-    },
-    {
-        "year": 2004,
-        "name": "Power Rangers Dino Thunder",
-        "type": "Serie",
-        "topic": "Dinosaurios, tecnología, adolescentes héroes",
-        "imageUrl": "https://image.tmdb.org/t/p/original/zqJrqbS257eXtyohyMtbhRbhOEi.jpg",
-        "view": 0,
-        "episodes": 38
-    },
-    {
-        "year": 2005,
-        "name": "Power Rangers S.P.D.",
-        "type": "Serie",
-        "topic": "Policía espacial, tecnología avanzada",
-        "imageUrl": "https://image.tmdb.org/t/p/original/5IMzZOdPZKeOwiJZomiGk6c7Bwn.jpg",
-        "view": 0,
-        "episodes": 38
-    },
-    {
-        "year": 2006,
-        "name": "Power Rangers Mystic Force",
-        "type": "Serie",
-        "topic": "Magia, mitología, criaturas mágicas",
-        "imageUrl": "https://image.tmdb.org/t/p/original/wc6hvTOfxvrQ0AiBrM1Tafe5aeX.jpg",
-        "view": 0,
-        "episodes": 32
-    },
-    {
-        "year": 2006,
-        "name": "Power Rangers: Mystic Force – Dark Wish",
-        "type": "Película",
-        "topic": "Magia, batalla contra el mal",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77ytXZlruAP6qmqo3yJMc7kyiJC.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 2007,
-        "name": "Power Rangers Operation Overdrive",
-        "type": "Serie",
-        "topic": "Aventuras, tesoros, arqueología",
-        "imageUrl": "https://image.tmdb.org/t/p/original/lw7EEQ3ZFwGnpirr79b9JRaNScl.jpg",
-        "view": 0,
-        "episodes": 32
-    },
-    {
-        "year": 2008,
-        "name": "Power Rangers Jungle Fury",
-        "type": "Serie",
-        "topic": "Artes marciales, animales, espíritus",
-        "imageUrl": "https://image.tmdb.org/t/p/original/3DxDiVmCLNMd7BoJnDRamWo8crF.jpg",
-        "view": 0,
-        "episodes": 32
-    },
-    {
-        "year": 2008,
-        "name": "Power Rangers Jungle Fury: Way of the Master",
-        "type": "Película",
-        "topic": "Artes marciales, espíritus guardianes",
-        "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgJFzgwoBlfFysjQUUcRpzKDrjD.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 2009,
-        "name": "Power Rangers RPM",
-        "type": "Serie",
-        "topic": "Vehículos, post-apocalíptico, robots",
-        "imageUrl": "https://image.tmdb.org/t/p/original/2oFp5zwFx2z0DkYNEfr72GMNTMD.jpg",
-        "view": 0,
-        "episodes": 32
-    },
-    {
-        "year": 2010,
-        "name": "Power Rangers Samurai",
-        "type": "Serie",
-        "topic": "Samuráis, elementos, tradición",
-        "imageUrl": "https://image.tmdb.org/t/p/original/Dap6XoRYzVOlVZNi2FjCIT6jtQ.jpg",
-        "view": 0,
-        "episodes": 23
-    },
-    {
-        "year": 2011,
-        "name": "Power Rangers Super Samurai",
-        "type": "Serie",
-        "topic": "Samuráis, elementos, tradición",
-        "imageUrl": "https://image.tmdb.org/t/p/original/r1VffjHeAxAmM3sZe9xAQ88tNLm.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2011,
-        "name": "Clash of the Red Rangers: The Movie",
-        "type": "Película",
-        "topic": "Colaboración entre RPM y Samurai",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rw6xr9oeG5LSCJ4nyUbPIOCA8vd.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 2013,
-        "name": "Power Rangers Megaforce",
-        "type": "Serie",
-        "topic": "Aliens, poder legendario, guerra",
-        "imageUrl": "https://image.tmdb.org/t/p/original/jowZBmyKXYMZPNdXemSOcJ81CP1.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2014,
-        "name": "Power Rangers Super Megaforce",
-        "type": "Serie",
-        "topic": "Aliens, piratas, poder legendario",
-        "imageUrl": "https://image.tmdb.org/t/p/original/pmZONiBgiLM8crrr4mFJCZeJJx6.jpg",
-        "view": 0,
-        "episodes": 20
-    },
-    {
-        "year": 2015,
-        "name": "Power Rangers Dino Charge",
-        "type": "Serie",
-        "topic": "Dinosaurios, poder, aventura",
-        "imageUrl": "https://image.tmdb.org/t/p/original/k3KeqXHdUT7pPVpmEYg1uDFE6y9.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2016,
-        "name": "Power Rangers Dino Super Charge",
-        "type": "Serie",
-        "topic": "Dinosaurios, poder, aventura",
-        "imageUrl": "https://image.tmdb.org/t/p/original/n2dM5czRC87fEh3giBsWpT3Y60f.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2017,
-        "name": "Power Rangers (Película de 2017)",
-        "type": "Película",
-        "topic": "Reboot de los orígenes de Mighty Morphin",
-        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 2017,
-        "name": "Power Rangers Ninja Steel",
-        "type": "Serie",
-        "topic": "Ninjas, tecnología, estrellas",
-        "imageUrl": "https://image.tmdb.org/t/p/original/k3MRiDJkG2k9cO0bQE8p6x3FYn0.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2018,
-        "name": "Power Rangers Super Ninja Steel",
-        "type": "Serie",
-        "topic": "Ninjas, tecnología, estrellas",
-        "imageUrl": "https://image.tmdb.org/t/p/original/qNs4fBio9BeaEMUCFYF3DiP1aNc.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2019,
-        "name": "Power Rangers Beast Morphers",
-        "type": "Serie",
-        "topic": "Tecnología, animales, robots",
-        "imageUrl": "https://image.tmdb.org/t/p/original/rV0abHcunG196LzFsgAjHEIrSpz.jpg",
-        "view": 0,
-        "episodes": 22
-    },
-    {
-        "year": 2021,
-        "name": "Power Rangers Dino Fury",
-        "type": "Serie",
-        "topic": "Dinosaurios, equipo, energía",
-        "imageUrl": "https://image.tmdb.org/t/p/original/lkMsbqWzUieRqko5qGAuHeSsFKB.jpg",
-        "view": 0,
-        "episodes": 44
-    }
+  {
+    "year": 1993,
+    "name": "Mighty Morphin Power Rangers (Temporada 1)",
+    "type": "Serie",
+    "topic": "Dinosaurios, mitología, adolescentes héroes",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+    "view": 0,
+    "episodes": 60
+  },
+  {
+    "year": 1994,
+    "name": "Mighty Morphin Power Rangers (Temporada 2)",
+    "type": "Serie",
+    "topic": "Dinosaurios, mitología, adolescentes héroes",
+    "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/b/b5/Poster-mmpr3.jpg",
+    "view": 0,
+    "episodes": 52
+  },
+  {
+    "year": 1995,
+    "name": "Mighty Morphin Power Rangers (Temporada 3)",
+    "type": "Serie",
+    "topic": "Dinosaurios, mitología, adolescentes héroes",
+    "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/8/8e/MMPR-_Season_3.jpg",
+    "view": 0,
+    "episodes": 33
+  },
+  {
+    "year": 1995,
+    "name": "Mighty Morphin Power Rangers: The Movie",
+    "type": "Película",
+    "topic": "Dinosaurios, magia, aventuras",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pcLbHqs80dchv0byHivhdwHKEup.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 1996,
+    "name": "Mighty Morphin Alien Rangers",
+    "type": "Serie",
+    "topic": "Espacio, alienígenas, protección",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sHPcIR4Rzqoc1bQyOq5D2KBr3Rd.jpg",
+    "view": 0,
+    "episodes": 10
+  },
+  {
+    "year": 1997,
+    "name": "Power Rangers Zeo",
+    "type": "Serie",
+    "topic": "Cristales, tecnología, poderes antiguos",
+    "imageUrl": "https://static.wikia.nocookie.net/powerrangers/images/1/18/Power_Rangers_Zeo_1996_Poster.jpg",
+    "view": 0,
+    "episodes": 50
+  },
+  {
+    "year": 1997,
+    "name": "Turbo: A Power Rangers Movie",
+    "type": "Película",
+    "topic": "Vehículos, velocidad, tecnología",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4mau5EXQoKUTiS5wx3Wocwrh5hG.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 1997,
+    "name": "Power Rangers Turbo",
+    "type": "Serie",
+    "topic": "Vehículos, velocidad, tecnología",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hM3MxdOXVUEsamywO5aR4ZLPRy3.jpg",
+    "view": 0,
+    "episodes": 45
+  },
+  {
+    "year": 1998,
+    "name": "Power Rangers in Space",
+    "type": "Serie",
+    "topic": "Espacio, tecnología, aventuras",
+    "imageUrl": "https://image.tmdb.org/t/p/original/hmpk7r5Jpg8Xt1QMg5db6ckWjUV.jpg",
+    "view": 0,
+    "episodes": 43
+  },
+  {
+    "year": 1999,
+    "name": "Power Rangers Lost Galaxy",
+    "type": "Serie",
+    "topic": "Espacio, colonización, naturaleza",
+    "imageUrl": "https://image.tmdb.org/t/p/original/e1M3Chn5LqcCq7nv3GsHiyYc0Sl.jpg",
+    "view": 0,
+    "episodes": 45
+  },
+  {
+    "year": 1999,
+    "name": "The Power Rangers: The Lost Episode",
+    "type": "Película",
+    "topic": "Detrás de cámaras, documental",
+    "imageUrl": "https://image.tmdb.org/t/p/original/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 2000,
+    "name": "Power Rangers Lightspeed Rescue",
+    "type": "Serie",
+    "topic": "Rescate, bomberos, protección",
+    "imageUrl": "https://image.tmdb.org/t/p/original/nXOwakqruopTpMTOpf5XSwqdf88.jpg",
+    "view": 0,
+    "episodes": 40
+  },
+  {
+    "year": 2001,
+    "name": "Power Rangers Time Force",
+    "type": "Serie",
+    "topic": "Viajes en el tiempo, justicia, tecnología",
+    "imageUrl": "https://image.tmdb.org/t/p/original/UCgePnFVfl6Zo2RYV0cAIOW9TV.jpg",
+    "view": 0,
+    "episodes": 40
+  },
+  {
+    "year": 2002,
+    "name": "Power Rangers Wild Force",
+    "type": "Serie",
+    "topic": "Animales, naturaleza, espíritus guardianes",
+    "imageUrl": "https://image.tmdb.org/t/p/original/cFrxWhrF0UJB1YEh24BbxxAY0Gt.jpg",
+    "view": 0,
+    "episodes": 40
+  },
+  {
+    "year": 2003,
+    "name": "Power Rangers Ninja Storm",
+    "type": "Serie",
+    "topic": "Ninjas, viento, elementos",
+    "imageUrl": "https://image.tmdb.org/t/p/original/uTtI26GBQw1k94BRstFdrSy82xu.jpg",
+    "view": 0,
+    "episodes": 38
+  },
+  {
+    "year": 2004,
+    "name": "Power Rangers Dino Thunder",
+    "type": "Serie",
+    "topic": "Dinosaurios, tecnología, adolescentes héroes",
+    "imageUrl": "https://image.tmdb.org/t/p/original/zqJrqbS257eXtyohyMtbhRbhOEi.jpg",
+    "view": 0,
+    "episodes": 38
+  },
+  {
+    "year": 2005,
+    "name": "Power Rangers S.P.D.",
+    "type": "Serie",
+    "topic": "Policía espacial, tecnología avanzada",
+    "imageUrl": "https://image.tmdb.org/t/p/original/5IMzZOdPZKeOwiJZomiGk6c7Bwn.jpg",
+    "view": 0,
+    "episodes": 38
+  },
+  {
+    "year": 2006,
+    "name": "Power Rangers Mystic Force",
+    "type": "Serie",
+    "topic": "Magia, mitología, criaturas mágicas",
+    "imageUrl": "https://image.tmdb.org/t/p/original/wc6hvTOfxvrQ0AiBrM1Tafe5aeX.jpg",
+    "view": 0,
+    "episodes": 32
+  },
+  {
+    "year": 2006,
+    "name": "Power Rangers: Mystic Force – Dark Wish",
+    "type": "Película",
+    "topic": "Magia, batalla contra el mal",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77ytXZlruAP6qmqo3yJMc7kyiJC.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 2007,
+    "name": "Power Rangers Operation Overdrive",
+    "type": "Serie",
+    "topic": "Aventuras, tesoros, arqueología",
+    "imageUrl": "https://image.tmdb.org/t/p/original/lw7EEQ3ZFwGnpirr79b9JRaNScl.jpg",
+    "view": 0,
+    "episodes": 32
+  },
+  {
+    "year": 2008,
+    "name": "Power Rangers Jungle Fury",
+    "type": "Serie",
+    "topic": "Artes marciales, animales, espíritus",
+    "imageUrl": "https://image.tmdb.org/t/p/original/3DxDiVmCLNMd7BoJnDRamWo8crF.jpg",
+    "view": 0,
+    "episodes": 32
+  },
+  {
+    "year": 2008,
+    "name": "Power Rangers Jungle Fury: Way of the Master",
+    "type": "Película",
+    "topic": "Artes marciales, espíritus guardianes",
+    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgJFzgwoBlfFysjQUUcRpzKDrjD.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 2009,
+    "name": "Power Rangers RPM",
+    "type": "Serie",
+    "topic": "Vehículos, post-apocalíptico, robots",
+    "imageUrl": "https://image.tmdb.org/t/p/original/2oFp5zwFx2z0DkYNEfr72GMNTMD.jpg",
+    "view": 0,
+    "episodes": 32
+  },
+  {
+    "year": 2010,
+    "name": "Power Rangers Samurai",
+    "type": "Serie",
+    "topic": "Samuráis, elementos, tradición",
+    "imageUrl": "https://image.tmdb.org/t/p/original/Dap6XoRYzVOlVZNi2FjCIT6jtQ.jpg",
+    "view": 0,
+    "episodes": 23
+  },
+  {
+    "year": 2011,
+    "name": "Power Rangers Super Samurai",
+    "type": "Serie",
+    "topic": "Samuráis, elementos, tradición",
+    "imageUrl": "https://image.tmdb.org/t/p/original/r1VffjHeAxAmM3sZe9xAQ88tNLm.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2011,
+    "name": "Clash of the Red Rangers: The Movie",
+    "type": "Película",
+    "topic": "Colaboración entre RPM y Samurai",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rw6xr9oeG5LSCJ4nyUbPIOCA8vd.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 2013,
+    "name": "Power Rangers Megaforce",
+    "type": "Serie",
+    "topic": "Aliens, poder legendario, guerra",
+    "imageUrl": "https://image.tmdb.org/t/p/original/jowZBmyKXYMZPNdXemSOcJ81CP1.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2014,
+    "name": "Power Rangers Super Megaforce",
+    "type": "Serie",
+    "topic": "Aliens, piratas, poder legendario",
+    "imageUrl": "https://image.tmdb.org/t/p/original/pmZONiBgiLM8crrr4mFJCZeJJx6.jpg",
+    "view": 0,
+    "episodes": 20
+  },
+  {
+    "year": 2015,
+    "name": "Power Rangers Dino Charge",
+    "type": "Serie",
+    "topic": "Dinosaurios, poder, aventura",
+    "imageUrl": "https://image.tmdb.org/t/p/original/k3KeqXHdUT7pPVpmEYg1uDFE6y9.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2016,
+    "name": "Power Rangers Dino Super Charge",
+    "type": "Serie",
+    "topic": "Dinosaurios, poder, aventura",
+    "imageUrl": "https://image.tmdb.org/t/p/original/n2dM5czRC87fEh3giBsWpT3Y60f.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2017,
+    "name": "Power Rangers (Película de 2017)",
+    "type": "Película",
+    "topic": "Reboot de los orígenes de Mighty Morphin",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",
+    "view": 0,
+    "episodes": 1
+  },
+  {
+    "year": 2017,
+    "name": "Power Rangers Ninja Steel",
+    "type": "Serie",
+    "topic": "Ninjas, tecnología, estrellas",
+    "imageUrl": "https://image.tmdb.org/t/p/original/k3MRiDJkG2k9cO0bQE8p6x3FYn0.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2018,
+    "name": "Power Rangers Super Ninja Steel",
+    "type": "Serie",
+    "topic": "Ninjas, tecnología, estrellas",
+    "imageUrl": "https://image.tmdb.org/t/p/original/qNs4fBio9BeaEMUCFYF3DiP1aNc.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2019,
+    "name": "Power Rangers Beast Morphers",
+    "type": "Serie",
+    "topic": "Tecnología, animales, robots",
+    "imageUrl": "https://image.tmdb.org/t/p/original/rV0abHcunG196LzFsgAjHEIrSpz.jpg",
+    "view": 0,
+    "episodes": 22
+  },
+  {
+    "year": 2021,
+    "name": "Power Rangers Dino Fury",
+    "type": "Serie",
+    "topic": "Dinosaurios, equipo, energía",
+    "imageUrl": "https://image.tmdb.org/t/p/original/lkMsbqWzUieRqko5qGAuHeSsFKB.jpg",
+    "view": 0,
+    "episodes": 44
+  }
 ]

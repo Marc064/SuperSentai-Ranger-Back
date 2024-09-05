@@ -1,35 +1,35 @@
 const path = require('path')
 const fs = require('fs')
 
-seasonsSentai = path.join(__dirname, '../persistence/seasonsSentai.json')
+seasonsKamen = path.join(__dirname, '../persistence/seasonsKamen.json')
 
-let sentai = []
+let kamen = []
 try {
-    const data = fs.readFileSync(seasonsSentai, 'utf8')
+    const data = fs.readFileSync(seasonsKamen, 'utf8')
     if (data.trim() !== '') {
         const jsonData = JSON.parse(data)
-        sentai = jsonData
+        kamen = jsonData
     } else {
-        console.log(`El archivo ${seasonsSentai} está vacío`);
+        console.log(`El archivo ${seasonsKamen} está vacío`);
 
     }
 } catch (error) {
-    console.log(`Error al parcear el archivo JSON ${seasonsSentai}`, error);
+    console.log(`Error al parcear el archivo JSON ${seasonsKamen}`, error);
 
 }
 
-const saveSentaiToFile = () => {
+const saveKamenToFile = () => {
     try {
-        fs.writeFileSync(seasonsSentai, JSON.stringify(sentai, null, 2), 'utf8');
+        fs.writeFileSync(seasonsKamen, JSON.stringify(kamen, null, 2), 'utf8');
     } catch (error) {
-        console.log(`Error al escribir el archivo JSON ${seasonsSentai}`, error);
+        console.log(`Error al escribir el archivo JSON ${seasonsKamen}`, error);
     }
 }
 
 module.exports = {
     findAll: async (req, res) => {
         try {
-            return res.status(200).json({ "state": true, "sentai": sentai })
+            return res.status(200).json({ "state": true, "kamen": kamen })
         } catch (error) {
             return res.status(500).json({ "state": false, "error": error.message })
         }
@@ -39,10 +39,10 @@ module.exports = {
         const index = parseInt(id, 10)
 
         try {
-            if (isNaN(index) || index < 0 || index >= sentai.length) {
+            if (isNaN(index) || index < 0 || index >= kamen.length) {
                 return res.status(404).json({ "state": false, "error": "Elemento no encontrado" })
             }
-            return res.status(200).json({ "state": true, "sentai": sentai[index] })
+            return res.status(200).json({ "state": true, "kamen": kamen[index] })
         } catch (error) {
             return res.status(500).json({ "state": false, "error": error.message })
         }
@@ -52,12 +52,12 @@ module.exports = {
         const { episode } = req.body
         index = parseInt(id)
         try {
-            if (isNaN(index) || index < 0 || index >= sentai.length) {
+            if (isNaN(index) || index < 0 || index >= kamen.length) {
                 return res.status(404).json({ "state": false, "error": "Elemento no encontrado" })
             }
-            sentai[index].view = episode
-            saveSentaiToFile()
-            return res.status(200).json({ "state": true, "sentai": sentai[index] })
+            kamen[index].view = episode
+            saveKamenToFile()
+            return res.status(200).json({ "state": true, "kamen": kamen[index] })
         } catch (error) {
             return res.status(500).json({ "state": false, "error": error.message })
         }

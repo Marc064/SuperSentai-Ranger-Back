@@ -1,6 +1,5 @@
 const express = require('express')
 const cors = require('cors')
-const path = require('path')
 
 const app = express()
 
@@ -10,5 +9,7 @@ app.use(express.json())
 app.use(cors())
 
 app.use('/sentai', require('./router/sentai'))
+app.use('/ranger', require('./router/ranger'))
+app.use('/kamen', require('./router/kamen'))
 
 app.listen(app.get('PORT'), ()=> console.log(`Server already in http://localhost:${app.get('PORT')}`) )
