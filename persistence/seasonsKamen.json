@@ -1,0 +1,317 @@
+[
+    {
+        "year": 1971,
+        "name": "Kamen Rider",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, justicia",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 98
+    },
+    {
+        "year": 1972,
+        "name": "Kamen Rider V3",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, poderes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 52
+    },
+    {
+        "year": 1973,
+        "name": "Kamen Rider X",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, ciencia ficción",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 35
+    },
+    {
+        "year": 1974,
+        "name": "Kamen Rider Amazon",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, naturaleza",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 24
+    },
+    {
+        "year": 1975,
+        "name": "Kamen Rider Stronger",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, tecnología",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 39
+    },
+    {
+        "year": 1979,
+        "name": "Kamen Rider Skyrider",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, aerostática",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 32
+    },
+    {
+        "year": 1980,
+        "name": "Kamen Rider Super-1",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, poderes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 39
+    },
+    {
+        "year": 1987,
+        "name": "Kamen Rider Black",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, drama familiar",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 51
+    },
+    {
+        "year": 1988,
+        "name": "Kamen Rider Black RX",
+        "type": "Serie",
+        "topic": "Héroes motociclistas, ciencia ficción",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 47
+    },
+    {
+        "year": 1991,
+        "name": "Kamen Rider Kuuga",
+        "type": "Serie",
+        "topic": "Héroes, luchadores, poder antiguo",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 49
+    },
+    {
+        "year": 1992,
+        "name": "Kamen Rider Agito",
+        "type": "Serie",
+        "topic": "Héroes, misterios, poderes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 51
+    },
+    {
+        "year": 1993,
+        "name": "Kamen Rider Ryuki",
+        "type": "Serie",
+        "topic": "Héroes, cartas, juegos",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 50
+    },
+    {
+        "year": 1994,
+        "name": "Kamen Rider 555",
+        "type": "Serie",
+        "topic": "Héroes, tecnología avanzada",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 50
+    },
+    {
+        "year": 1994,
+        "name": "Kamen Rider J",
+        "type": "Película",
+        "topic": "Héroes, tecnología avanzada",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 1995,
+        "name": "Kamen Rider ZO",
+        "type": "Película",
+        "topic": "Héroes, poderes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 1995,
+        "name": "Kamen Rider J",
+        "type": "Película",
+        "topic": "Héroes, tecnología avanzada",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 2000,
+        "name": "Kamen Rider Kabuto",
+        "type": "Serie",
+        "topic": "Héroes, insectos, luchadores",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 49
+    },
+    {
+        "year": 2001,
+        "name": "Kamen Rider Decade",
+        "type": "Serie",
+        "topic": "Héroes, viajes en el tiempo",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 31
+    },
+    {
+        "year": 2002,
+        "name": "Kamen Rider Double",
+        "type": "Serie",
+        "topic": "Héroes, detective, ciudad",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 49
+    },
+    {
+        "year": 2002,
+        "name": "Kamen Rider The First",
+        "type": "Película",
+        "topic": "Héroes, orígenes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 2003,
+        "name": "Kamen Rider The Next",
+        "type": "Película",
+        "topic": "Héroes, aventuras",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 2011,
+        "name": "Kamen Rider Fourze",
+        "type": "Serie",
+        "topic": "Héroes, espacio, escuela",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 48
+    },
+    {
+        "year": 2012,
+        "name": "Kamen Rider Wizard",
+        "type": "Serie",
+        "topic": "Héroes, magia, mundo paralelo",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 53
+    },
+    {
+        "year": 2013,
+        "name": "Kamen Rider Gaim",
+        "type": "Serie",
+        "topic": "Héroes, frutas, batallas",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 47
+    },
+    {
+        "year": 2014,
+        "name": "Kamen Rider Drive",
+        "type": "Serie",
+        "topic": "Héroes, coches, crimen",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 48
+    },
+    {
+        "year": 2015,
+        "name": "Kamen Rider Ghost",
+        "type": "Serie",
+        "topic": "Héroes, fantasmas, poderes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 50
+    },
+    {
+        "year": 2016,
+        "name": "Kamen Rider Ex-Aid",
+        "type": "Serie",
+        "topic": "Héroes, videojuegos, medicina",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 45
+    },
+    {
+        "year": 2017,
+        "name": "Kamen Rider Build",
+        "type": "Serie",
+        "topic": "Héroes, ciencia, batallas",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 49
+    },
+    {
+        "year": 2018,
+        "name": "Kamen Rider Zi-O",
+        "type": "Serie",
+        "topic": "Héroes, viajes en el tiempo",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 49
+    },
+    {
+        "year": 2019,
+        "name": "Kamen Rider Zero-One",
+        "type": "Serie",
+        "topic": "Héroes, robots, tecnología",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 46
+    },
+    {
+        "year": 2019,
+        "name": "Kamen Rider Reiwa: The First Generation",
+        "type": "Película",
+        "topic": "Héroes, orígenes",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 1
+    },
+    {
+        "year": 2020,
+        "name": "Kamen Rider Saber",
+        "type": "Serie",
+        "topic": "Héroes, libros, fantasía",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 45
+    },
+    {
+        "year": 2021,
+        "name": "Kamen Rider Revice",
+        "type": "Serie",
+        "topic": "Héroes, demonios, familia",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 50
+    },
+    {
+        "year": 2022,
+        "name": "Kamen Rider Geats",
+        "type": "Serie",
+        "topic": "Héroes, juegos, competición",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 48
+    },
+    {
+        "year": 2023,
+        "name": "Kamen Rider Gotchard",
+        "type": "Serie",
+        "topic": "Héroes, tecnología, aventuras",
+        "imageUrl": "",
+        "view": 0,
+        "episodes": 48
+    }
+]
