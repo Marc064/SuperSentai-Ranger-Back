@@ -4,7 +4,7 @@
         "name": "Kamen Rider",
         "type": "Serie",
         "topic": "Héroes motociclistas, justicia",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
         "view": 0,
         "episodes": 98
     },
@@ -13,7 +13,7 @@
         "name": "Kamen Rider V3",
         "type": "Serie",
         "topic": "Héroes motociclistas, poderes",
-        "imageUrl": "",
+        "imageUrl": "static.wikia.nocookie.net/kamenrider/images/c/c2/V3_Blu-ray_Vol_1.jpg",
         "view": 0,
         "episodes": 52
     },
@@ -22,7 +22,7 @@
         "name": "Kamen Rider X",
         "type": "Serie",
         "topic": "Héroes motociclistas, ciencia ficción",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/b/bf/X_Blu-ray_Volume_1.jpg",
         "view": 0,
         "episodes": 35
     },
@@ -31,7 +31,7 @@
         "name": "Kamen Rider Amazon",
         "type": "Serie",
         "topic": "Héroes motociclistas, naturaleza",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/8/89/Amazon_Blu-ray_BOX.jpg",
         "view": 0,
         "episodes": 24
     },
@@ -40,7 +40,7 @@
         "name": "Kamen Rider Stronger",
         "type": "Serie",
         "topic": "Héroes motociclistas, tecnología",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/4/47/Stronger_Blu-ray_Volume_1.jpg",
         "view": 0,
         "episodes": 39
     },
@@ -49,7 +49,7 @@
         "name": "Kamen Rider Skyrider",
         "type": "Serie",
         "topic": "Héroes motociclistas, aerostática",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/3/30/Skyrider_promotional_poster.jpeg",
         "view": 0,
         "episodes": 32
     },
@@ -58,7 +58,7 @@
         "name": "Kamen Rider Super-1",
         "type": "Serie",
         "topic": "Héroes motociclistas, poderes",
-        "imageUrl": "",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjY1NGIyMjUtOTdjYi00NzdkLWIzZmEtOGU2MzUwMGM2ZDg5XkEyXkFqcGc@._V1_FMjpg_UX443_.jpg",
         "view": 0,
         "episodes": 39
     },
@@ -67,7 +67,7 @@
         "name": "Kamen Rider Black",
         "type": "Serie",
         "topic": "Héroes motociclistas, drama familiar",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/6/62/Black_Volume_1.jpg",
         "view": 0,
         "episodes": 51
     },
@@ -76,7 +76,7 @@
         "name": "Kamen Rider Black RX",
         "type": "Serie",
         "topic": "Héroes motociclistas, ciencia ficción",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/f/fb/Kamen_rider_black_rx_title_banner.jpg",
         "view": 0,
         "episodes": 47
     },
@@ -85,7 +85,7 @@
         "name": "Kamen Rider Kuuga",
         "type": "Serie",
         "topic": "Héroes, luchadores, poder antiguo",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/7/7a/Kuuga_Poster.jpg",
         "view": 0,
         "episodes": 49
     },
@@ -94,7 +94,7 @@
         "name": "Kamen Rider Agito",
         "type": "Serie",
         "topic": "Héroes, misterios, poderes",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/d/d0/Agito_Poster.jpg",
         "view": 0,
         "episodes": 51
     },
@@ -103,7 +103,7 @@
         "name": "Kamen Rider Ryuki",
         "type": "Serie",
         "topic": "Héroes, cartas, juegos",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/7/75/Ryuki_Poster.jpg",
         "view": 0,
         "episodes": 50
     },
@@ -112,7 +112,7 @@
         "name": "Kamen Rider 555",
         "type": "Serie",
         "topic": "Héroes, tecnología avanzada",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/6/64/555_Poster.jpg",
         "view": 0,
         "episodes": 50
     },
@@ -121,7 +121,7 @@
         "name": "Kamen Rider J",
         "type": "Película",
         "topic": "Héroes, tecnología avanzada",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eigCNQq0EI9ojtdBzbpmvuoFugW.jpg",
         "view": 0,
         "episodes": 1
     },
@@ -130,16 +130,7 @@
         "name": "Kamen Rider ZO",
         "type": "Película",
         "topic": "Héroes, poderes",
-        "imageUrl": "",
-        "view": 0,
-        "episodes": 1
-    },
-    {
-        "year": 1995,
-        "name": "Kamen Rider J",
-        "type": "Película",
-        "topic": "Héroes, tecnología avanzada",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzDXr6naEa4Pcd23B9fZP8zmnMc.jpg",
         "view": 0,
         "episodes": 1
     },
@@ -148,7 +139,7 @@
         "name": "Kamen Rider Kabuto",
         "type": "Serie",
         "topic": "Héroes, insectos, luchadores",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/b/b1/Kabuto_Poster.jpg",
         "view": 0,
         "episodes": 49
     },
@@ -157,7 +148,7 @@
         "name": "Kamen Rider Decade",
         "type": "Serie",
         "topic": "Héroes, viajes en el tiempo",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/c/cc/Decade_Poster.jpg",
         "view": 0,
         "episodes": 31
     },
@@ -166,7 +157,7 @@
         "name": "Kamen Rider Double",
         "type": "Serie",
         "topic": "Héroes, detective, ciudad",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/f/fa/W_Poster.jpg",
         "view": 0,
         "episodes": 49
     },
@@ -175,7 +166,7 @@
         "name": "Kamen Rider The First",
         "type": "Película",
         "topic": "Héroes, orígenes",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHb2Bg2PizUig6tQa3xWy6CAGTz.jpg",
         "view": 0,
         "episodes": 1
     },
@@ -184,7 +175,7 @@
         "name": "Kamen Rider The Next",
         "type": "Película",
         "topic": "Héroes, aventuras",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qcJPmwVAYle1zasS8n3hr7ORlwk.jpg",
         "view": 0,
         "episodes": 1
     },
@@ -193,7 +184,7 @@
         "name": "Kamen Rider Fourze",
         "type": "Serie",
         "topic": "Héroes, espacio, escuela",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/1/11/Fourze_Poster.jpg",
         "view": 0,
         "episodes": 48
     },
@@ -202,7 +193,7 @@
         "name": "Kamen Rider Wizard",
         "type": "Serie",
         "topic": "Héroes, magia, mundo paralelo",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/d/dc/Wizard_Poster.jpg",
         "view": 0,
         "episodes": 53
     },
@@ -211,7 +202,7 @@
         "name": "Kamen Rider Gaim",
         "type": "Serie",
         "topic": "Héroes, frutas, batallas",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/b/ba/Gaim_Poster.jpg",
         "view": 0,
         "episodes": 47
     },
@@ -220,7 +211,7 @@
         "name": "Kamen Rider Drive",
         "type": "Serie",
         "topic": "Héroes, coches, crimen",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/e/e3/Drive_Poster.jpg",
         "view": 0,
         "episodes": 48
     },
@@ -229,7 +220,7 @@
         "name": "Kamen Rider Ghost",
         "type": "Serie",
         "topic": "Héroes, fantasmas, poderes",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/5/58/Ghost_Poster.jpg",
         "view": 0,
         "episodes": 50
     },
@@ -238,7 +229,7 @@
         "name": "Kamen Rider Ex-Aid",
         "type": "Serie",
         "topic": "Héroes, videojuegos, medicina",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s7jsmtcs4VD9u7rxAuumpUBoDeO.jpg",
         "view": 0,
         "episodes": 45
     },
@@ -247,7 +238,7 @@
         "name": "Kamen Rider Build",
         "type": "Serie",
         "topic": "Héroes, ciencia, batallas",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/b/b6/Build_Poster.jpg",
         "view": 0,
         "episodes": 49
     },
@@ -256,7 +247,7 @@
         "name": "Kamen Rider Zi-O",
         "type": "Serie",
         "topic": "Héroes, viajes en el tiempo",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/e/e6/Zi-O_Poster.jpg",
         "view": 0,
         "episodes": 49
     },
@@ -265,7 +256,7 @@
         "name": "Kamen Rider Zero-One",
         "type": "Serie",
         "topic": "Héroes, robots, tecnología",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/b/be/Zero-One_Poster.jpg",
         "view": 0,
         "episodes": 46
     },
@@ -274,7 +265,7 @@
         "name": "Kamen Rider Reiwa: The First Generation",
         "type": "Película",
         "topic": "Héroes, orígenes",
-        "imageUrl": "",
+        "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aTTB2rdlYAlLuQa9Y2rAVml4Nqg.jpg",
         "view": 0,
         "episodes": 1
     },
@@ -283,7 +274,7 @@
         "name": "Kamen Rider Saber",
         "type": "Serie",
         "topic": "Héroes, libros, fantasía",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/8/8d/Saber_Poster.jpg",
         "view": 0,
         "episodes": 45
     },
@@ -292,7 +283,7 @@
         "name": "Kamen Rider Revice",
         "type": "Serie",
         "topic": "Héroes, demonios, familia",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/e/e2/Revice_Poster.jpg",
         "view": 0,
         "episodes": 50
     },
@@ -301,7 +292,7 @@
         "name": "Kamen Rider Geats",
         "type": "Serie",
         "topic": "Héroes, juegos, competición",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/4/40/Geats_Poster.jpg",
         "view": 0,
         "episodes": 48
     },
@@ -310,7 +301,7 @@
         "name": "Kamen Rider Gotchard",
         "type": "Serie",
         "topic": "Héroes, tecnología, aventuras",
-        "imageUrl": "",
+        "imageUrl": "https://static.wikia.nocookie.net/kamenrider/images/4/49/Gotchard_Q1_Poster.jpg",
         "view": 0,
         "episodes": 48
     }

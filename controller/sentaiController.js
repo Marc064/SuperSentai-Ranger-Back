@@ -19,6 +19,14 @@ try {
 
 }
 
+const saveSentaiToFile = () => {
+    try {
+        fs.writeFileSync(seasonsSentai, JSON.stringify(sentai, null, 2), 'utf8');
+    } catch (error) {
+        console.log(`Error al escribir el archivo JSON ${seasonsSentai}`, error);
+    }
+}
+
 module.exports = {
     findAll: async (req, res) => {
         try {
@@ -35,6 +43,21 @@ module.exports = {
             if (isNaN(index) || index < 0 || index >= sentai.length) {
                 return res.status(404).json({ "state": false, "error": "Elemento no encontrado" })
             }
+            return res.status(200).json({ "state": true, "sentai": sentai[index] })
+        } catch (error) {
+            return res.status(500).json({ "state": false, "error": error.message })
+        }
+    },
+    updateEpisode: async (req, res) => {
+        const { id } = req.params
+        const { episode } = req.body
+        index = parseInt(id)
+        try {
+            if (isNaN(index) || index < 0 || index >= sentai.length) {
+                return res.status(404).json({ "state": false, "error": "Elemento no encontrado" })
+            }
+            sentai[index].view = episode
+            saveSentaiToFile()
             return res.status(200).json({ "state": true, "sentai": sentai[index] })
         } catch (error) {
             return res.status(500).json({ "state": false, "error": error.message })
