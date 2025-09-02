@@ -8,8 +8,8 @@ app.set('PORT', process.env.PORT || 3000)
 app.use(express.json())
 app.use(cors())
 
-app.use('/sentai', require('./router/sentai'))
-app.use('/ranger', require('./router/ranger'))
-app.use('/kamen', require('./router/kamen'))
+app.use('/api/sentai', require('./router/sentai'))
+app.use('/api/ranger', require('./router/ranger'))
+app.use('/api/kamen', require('./router/kamen'))
 
-app.listen(app.get('PORT'), ()=> console.log(`Server already in http://localhost:${app.get('PORT')}`) )
+app.listen(app.get('PORT'), () => console.log(`Server already in http://localhost:${app.get('PORT')}`))
