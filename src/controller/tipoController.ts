@@ -7,6 +7,14 @@ export function getAllTipos() {
     return prisma.tipo.findMany();
 }
 
+export function findById(id: number) {
+    return prisma.tipo.findUnique({
+        where: {
+            idTipo: id
+        }
+    });
+}
+
 export function saveTipo(tipo: tipo) {
     return prisma.tipo.create({
         data: tipo
