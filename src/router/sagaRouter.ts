@@ -2,12 +2,12 @@ import express from "express";
 import {
     getAllSagas,
     getSagaByName
-} from "../controller/tokusatsuController";
+} from "../controller/sagaController";
 
 const router = express.Router();
 
 // Saga Routes
-router.get("/sagas", async (_req, res) => {
+router.get("/", async (_req, res) => {
     try {
         const types = await getAllSagas();
         res.status(200).json(types);
@@ -16,12 +16,8 @@ router.get("/sagas", async (_req, res) => {
     }
 });
 
-
-
-// Type Routes
-router.get("/saga/:name", async (req, res) => {
+router.get("/:name", async (req, res) => {
     const { name } = req.params;
-    console.log(name);
     try {
         const type = await getSagaByName(name.toUpperCase());
         res.status(type ? 200 : 404).json(type ? type : { error: "Not Found" });
@@ -29,5 +25,6 @@ router.get("/saga/:name", async (req, res) => {
         res.status(500).json({ error: "Internal Server Error" });
     }
 });
+
 
 export default router;

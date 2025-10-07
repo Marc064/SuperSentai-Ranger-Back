@@ -1,4 +1,5 @@
 import { PrismaClient } from "@prisma/client";
+import { saga } from "../types/saga";
 
 const prisma = new PrismaClient();
 
@@ -8,8 +9,6 @@ export function getAllSagas() {
 }
 
 export function getSagaByName(name: string) {
-    console.log(name);
-
     return prisma.saga.findFirst({
         where: {
             saga: {
@@ -18,3 +17,19 @@ export function getSagaByName(name: string) {
         }
     })
 }
+
+export function saveSaga(saga: saga) {
+    return prisma.saga.create({
+        data: saga
+    })
+}
+
+export function updateSaga(id: number, saga: saga) {
+    return prisma.saga.update({
+        where: {
+            idSaga: id
+        },
+        data: saga
+    })
+}
+
