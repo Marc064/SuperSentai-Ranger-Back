@@ -32,3 +32,11 @@ export function updateTemporadaTematica(id: number, temporadaTematica: temporada
         }
     })
 }
+
+export function deleteTemporadaTematica(id: number) {
+    return prisma.tEMPORADA_TEMATICA.delete({
+        where: {
+            ID_TEMPORADA_TEMATICA: id
+        }
+    })
+}

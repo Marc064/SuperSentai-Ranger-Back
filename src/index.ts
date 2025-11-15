@@ -4,6 +4,7 @@ import sagaRouter from './router/sagaRouter';
 import temporadaRouter from './router/temporadaRouter';
 import tematicaRouter from './router/tematicaRouter';
 import tipoRouter from './router/tipoRouter';
+import temporadaTematicaRouter from './router/temporadaTematicaRouter';
 
 const app = express();
 app.use(cors());
@@ -15,6 +16,7 @@ app.use('/api/tokusatsu/saga', sagaRouter);
 app.use('/api/tokusatsu/temporada', temporadaRouter);
 app.use('/api/tokusatsu/tematica', tematicaRouter);
 app.use('/api/tokusatsu/tipo', tipoRouter);
+app.use('/api/tokusatsu/temporada-tematica', temporadaTematicaRouter);
 
 
 app.listen(PORT, () => {
