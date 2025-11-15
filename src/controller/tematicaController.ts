@@ -21,3 +21,11 @@ export function updateTematica(id: number, tematica: tematica) {
         data: tematica
     })
 }
+
+export function deleteTematica(id: number) {
+    return prisma.tematica.delete({
+        where: {
+            idTematica: id
+        }
+    })
+}
