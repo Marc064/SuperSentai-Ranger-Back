@@ -29,3 +29,11 @@ export function updateTipo(id: number, tipo: tipo) {
         data: tipo
     })
 }
+
+export function deleteTipo(id: number) {
+    return prisma.tipo.delete({
+        where: {
+            idTipo: id
+        }
+    })
+}
