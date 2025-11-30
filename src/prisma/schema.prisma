@@ -4,12 +4,14 @@ generator client {
 
 datasource db {
   provider = "mysql"
+  url      = env("DATABASE_URL")
 }
 
 model Saga {
   idSaga    Int         @id @default(autoincrement()) @map("ID_SAGA")
   saga      String      @map("SAGA") @db.VarChar(100)
   URL       String?     @db.Text
+  IMAGEN    String?     @db.Text
   Temporada Temporada[]
 
   @@map("SAGA")
